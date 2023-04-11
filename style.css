@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1500px;
+    margin: auto;
+}
+
+.first-section{
+    margin-top:200px;
+}
+.icons{
+    font-size: 30px;
+}
+
+.globalImg img{
+    width: 300px;
+    height: 300px;
+    cursor: zoom-in;
+    
+}
+
+.firstImg img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.t_Shirts img{
+    width: 200px;
+    height: 200px;
+}
+
+.t_Shirts {
+    display: flex;
+}
