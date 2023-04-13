@@ -31,11 +31,11 @@ $(function () {
         })
     })
     
-    $('div.t_Shirts >img').click(function () {
+    $('.t_Shirts >img').click(function () {
       
         let imgPath = $(this).attr('src')
 
-        $('globalImg >img').attr('src',imgPath);
+        $('.globalImg >img').attr('src',imgPath);
        
        
        
